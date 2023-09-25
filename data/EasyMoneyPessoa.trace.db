@@ -1,0 +1,3 @@
+2023-09-24 10:40:23 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PESSOA" not found; SQL statement:
+select * from pessoa [42102-214]
